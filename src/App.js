@@ -1,7 +1,4 @@
-import axios from 'axios';
-import puppeteer from 'puppeteer';
-import './App.css';
-import { useEffect } from 'react';
+
 
 function App() {
   
